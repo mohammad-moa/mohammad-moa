@@ -31,4 +31,4 @@
 <a href="https://www.linkedin.com/in/mohammad-ahrari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=mohammad-moa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&show_icons=true" alt="mohammad-moa's GitHub stats" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-moa&langs_count=10&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-moa&langs_count=10&title_color=0891b2&text_color=0f172a&layout=compact&icon_color=0891b2&bg_color=ffffff&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></p>
