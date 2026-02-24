@@ -21,6 +21,8 @@
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mui/007FFF" height="40" alt="materialui logo" /></a>
 <a href="https://postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" /></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo" /></a>
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo" /></a>
+<a href="https://woocommerce.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" /></a>
 <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo" /></a>
 <a href="https://postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" /></a>  
